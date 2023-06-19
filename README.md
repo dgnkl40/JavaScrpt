@@ -13,9 +13,7 @@
         
 </h1>
 <h2 id="info"></h2>
-<h3>
-    SENİN OKUDUĞUN MEKTEBİN AAMINA KOYUM
-</h3>
+
 
 
 <script >
